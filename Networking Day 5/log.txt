@@ -1,0 +1,6 @@
+2023/01/28 09:32:50 Time: 2023-01-28 09:32:50.2617007 +0530 IST m=+466.754874901
+2023/01/28 09:32:50 Remote IP: [::1]:61924
+2023/01/28 09:32:50 Payload size: 14
+2023/01/28 09:32:50 Headers: 
+2023/01/28 09:32:50 Payload: Hello, server!
+2023/01/28 09:33:56 Error reading from connection: read tcp [::1]:8080->[::1]:61924: wsarecv: An existing connection was forcibly closed by the remote host.

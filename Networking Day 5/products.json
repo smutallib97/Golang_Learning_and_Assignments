@@ -1,0 +1,17 @@
+[
+    {
+        "product_id": 101,
+        "product_name": "Laptop",
+        "price": 350000
+    },
+    {
+        "product_id": 102,
+        "product_name": "Wireless Mouse",
+        "price": 1050
+    },
+    {
+        "product_id": 103,
+        "product_name": "Headphones",
+        "price": 1299
+    }
+]
